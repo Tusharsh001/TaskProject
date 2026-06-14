@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import TaskCard from "./TaskCard";
+import TaskCard from "./Taskcard";
 import api from "../utils/api";
 
 const Dashboard = () => {
